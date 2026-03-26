@@ -10,3 +10,8 @@ assignments/assignment_05/data/
 #ignore assignment06 data
 assignments/assignment_06/data/
 
+#ignore assignment07 data
+assignments/assignment_07/data/raw/
+
+#ignore assignment07 data
+assignments/assignment_07/data/clean/
